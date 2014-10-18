@@ -1,0 +1,123 @@
+body
+{
+    width: 960px;
+    margin: auto;
+}
+
+/*Header*/
+
+.tete
+{
+    width: 960px;
+    margin: auto;
+}
+
+.nomsite
+{
+    font-size : 50px;
+}
+
+.slogan
+{
+    background-repeat: repeat-x;
+    margin: 0 auto;
+    width: 960px;
+}
+
+/*Corps de page*/
+
+h1
+{
+    color:black;
+    font-size: 17px;
+    text-align: center;
+}
+
+#membre
+{
+    height: 75px;
+    width: 400px;
+    margin-left: 570px;
+    font-family: "QuickSandBold","Copperplate";
+}
+
+#espace
+{
+    margin-left: 80px;
+    font-family: "QuickSandBold","Copperplate";
+}
+
+#connexion
+{
+    font-size: 12px;
+    position: relative;
+    margin-left: 360px;
+    font-family: "QuickSandBold","Copperplate";
+}
+
+.inscription
+{
+    font-size: 17px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+a
+{
+    color: black;
+    text-decoration: underline;
+}
+
+td
+{
+    width: 100px;
+}
+
+/*Bouton envoyer*/
+
+.clic, .inscription
+{
+    margin-left: 20px;
+}
+
+.envoyer 
+{
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff) );
+    background:-moz-linear-gradient( center top, #ffffff 5%, #ffffff 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff');
+    background-color:#ffffff;
+    border:1px solid #000000;
+    display:inline-block;
+    color:#000000;
+    font-family: "QuickSandBold","Copperplate";
+    font-size:12px;
+    font-weight:bold;
+    padding:6px 15px;
+    text-decoration:none;
+}
+
+.envoyer:hover 
+{
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff) );
+    background:-moz-linear-gradient( center top, #ffffff 5%, #ffffff 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff');
+    background: rgb(150,150,150);
+    color: white;
+}
+
+.envoyer:active {
+    position:relative;
+    top:1px;
+}
+
+
+/*Resume*/
+
+.resume
+{
+    color:black;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+/*h1{
+	text-align: top;
+	position: relative;
+}
+
+nav{
+	vertical-align: top;
+	position: relative;
+}*/
+
+.contenu{
+	position:relative;
+	left:10%;
+	width:90%;
+	height:340px;
+
+}
+
+.img{
+position:relative;
+left:20%;
+
+}
+
+h2{
+	position:relative;
+	left:60px;
+	width:40%;
+}

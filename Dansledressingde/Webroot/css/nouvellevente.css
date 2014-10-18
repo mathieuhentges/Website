@@ -1,0 +1,72 @@
+.heure{
+    margin-top: 15px;
+    padding: 32px;
+}
+
+.gauche{
+	width: 20%;
+  height: 100%;
+  float: left;
+  margin:100px; 
+  overflow: hidden;
+  margin:1px;
+}
+.milieu{
+	float: center;
+  width: 79%;
+  height: 50%;
+  text-align: left;
+  border:1px solid black;
+  margin:100px; 
+  overflow: hidden;
+  margin:1px;
+}
+h2{
+	text-align:center;
+}
+.nouvellevente{
+	position:relative;
+	left:30px;
+	text-decoration:underline;
+}
+.nomvente{
+	position: relative;
+	left:300px;
+}
+.ajoutproduit{
+	position:relative;
+	left:450px;
+	bottom:80px;
+	text-decoration:underline;
+}
+
+
+.envoyer 
+{
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff) );
+    background:-moz-linear-gradient( center top, #ffffff 5%, #ffffff 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff');
+    background-color:#ffffff;
+    border:1px solid #000000;
+    display:inline-block;
+    color:#000000;
+    font-family:Copperplate;
+    font-size:11px;
+    font-weight:bold;
+    padding:6px 20px;
+    text-decoration:none;
+}
+
+.envoyer:hover 
+{
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff) );
+    background:-moz-linear-gradient( center top, #ffffff 5%, #ffffff 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff');
+    background-color:#ffffff;
+}
+
+.envoyer:active 
+{
+    position:relative;
+    top:1px;
+}

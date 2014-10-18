@@ -1,0 +1,22 @@
+/*h1{
+	text-align: top;
+	position: relative;
+}
+
+nav{
+	vertical-align: top;
+	position: relative;
+}*/
+
+.contenu{
+	position:relative;
+	left:10%;
+	width:90%;
+	height:340px;
+
+}
+
+.Erreur{
+	position:relative;
+	left:50px;
+}

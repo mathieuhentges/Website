@@ -1,0 +1,185 @@
+/*Corps de page*/
+
+h1
+{
+    color:black;
+    font-size: 15px;
+}
+
+#membre
+{
+    height: 100px;
+    width: 400px;
+    margin-left: 570px;
+    font-family: "QuickSandBold","Copperplate";
+}
+
+#espace
+{
+    margin-left: 80px;
+    font-weight: bold;
+}
+
+#connexion
+{
+    font-size: 12px;
+    position: relative;
+}
+
+#pro
+{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin-left: 720px;
+}
+
+.inscription
+{
+    font-size: 12px;
+    text-decoration: underline;
+}
+
+a
+{
+    color: black;
+}
+
+td
+{
+    width: 100px;
+}
+
+/*Bouton envoyer*/
+
+.clic, .inscription
+{
+    margin-left: 20px;
+    text-decoration: underline;
+}
+
+.envoyer 
+{
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff) );
+    background:-moz-linear-gradient( center top, #ffffff 5%, #ffffff 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff');
+    background-color:#ffffff;
+    border:1px solid #000000;
+    display:inline-block;
+    color:#000000;
+    font-family: "QuickSandBold","Copperplate";
+    font-size:10px;
+    font-weight:bold;
+    padding:5px 10px;
+    text-decoration:none;
+}
+
+.envoyer:hover 
+{
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff) );
+    background:-moz-linear-gradient( center top, #ffffff 5%, #ffffff 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff');
+    background: rgb(150,150,150);
+    color: white;
+}
+
+.envoyer:active {
+    position:relative;
+    top:1px;
+}
+
+
+
+/*Carroussel*/
+
+
+
+#container {
+    width: 1000px;
+    overflow: hidden;
+    margin: 50px auto;
+    background: white;
+}
+/*photobanner*/
+
+.photobanner {
+    height: 300px;
+    width: 5175px;
+    margin-bottom: 100px;
+}
+
+/*keyframe animations*/
+.first {
+    -webkit-animation: bannermove 40s linear infinite;
+    -moz-animation: bannermove 40s linear infinite;
+    -ms-animation: bannermove 40s linear infinite;
+    -o-animation: bannermove 40s linear infinite;
+    animation: bannermove 40s linear infinite;
+}
+
+@keyframes "bannermove" {
+    0% {
+    margin: auto; }
+100% {
+    margin-left: -2125px;
+}
+
+}
+
+@-moz-keyframes bannermove {
+    0% {
+    margin: auto;
+}
+100% {
+    margin-left: -2125px;
+}
+
+}
+
+@-webkit-keyframes "bannermove" {
+    0% {
+    margin: auto;
+}
+100% {
+    margin-left: -2125px;
+}
+
+}
+
+@-ms-keyframes "bannermove" {
+    0% {
+    margin: auto;
+}
+100% {
+    margin-left: -2125px;
+}
+
+}
+
+@-o-keyframes "bannermove" {
+    0% {
+    margin: auto;
+}
+100% {
+    margin-left: -2125px;
+}
+
+}
+
+.redirection
+{
+    font-size: 14px;
+    margin-bottom: 30px;
+    font-family: "QuickSandBold","Copperplate";
+}
+.
+#container
+{
+    width: 960px;
+    height: 300px;
+}
+
+a{
+    text-decoration: underline;
+    font-family: "QuickSandLight","Copperplate";
+}

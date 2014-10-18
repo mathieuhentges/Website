@@ -1,0 +1,36 @@
+span.barre{
+    margin:0 auto; 
+    padding:0; 
+    height:70px; 
+    width:960px; 
+    display:block; 
+    background:url('/Dansledressingde/Webroot/img/topMenuImages.png') repeat-x;
+
+}
+
+#photo{
+	margin-top: 10px;
+	position: float;
+	vertical-align: top;
+
+}
+
+.profil{
+	text-align: top;
+	
+}
+
+
+#name{
+	font-size: 30px;
+}
+
+#mail{
+	color: blue;
+	text-decoration: underline;
+
+}
+
+.joubert, .hovine, .hentges, .halajko, .rolland, .halbert, .jumeau{
+	margin-left: 400px;
+}

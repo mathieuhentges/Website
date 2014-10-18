@@ -1,0 +1,746 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: traduction\n"
+"POT-Creation-Date: 2013-06-02 01:41+0100\n"
+"PO-Revision-Date: 2013-06-02 13:38+0100\n"
+"Last-Translator: ROLLAND <rolland.aud@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: \n"
+"X-Poedit-SearchPath-1: /Applications/MAMP/htdocs/Dansledressingde\n"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:25
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_admin.php:15
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_no_connect.php:22
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_vendeur.php:25
+msgid "Le site qui envahit votre armoire"
+msgstr "A website invading your closet"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:30
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_admin.php:21
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_vendeur.php:33
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Login/index.php:5
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Logpro/index.php:6
+msgid "Accueil"
+msgstr "Home"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:31
+msgid "Profil"
+msgstr "Profile"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:32
+msgid "Dressing"
+msgstr "Dressing"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:33
+msgid "Articles Favoris"
+msgstr "Favorites"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:34
+msgid "Mes commandes"
+msgstr "My orders"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:35
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_admin.php:24
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/index.php:7
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/Lesposts.php:7
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/lesventes.php:8
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/nouveauforum.php:7
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/nouveautopic.php:7
+msgid "Forum"
+msgstr "Forum"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:36
+msgid "Se Déconnecter"
+msgstr "Log Out"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:45
+msgid "Commande"
+msgstr "Order"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:46
+msgid "F.A.Q."
+msgstr "FAQs"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:47
+msgid "Contacts"
+msgstr "Contact Us"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:48
+msgid "Charte d'utilisation"
+msgstr "Usage policy"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:54
+msgid "Suivi"
+msgstr "Monitoring"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:56
+msgid "Admins"
+msgstr "Administrators"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:61
+msgid "Retour et Echanges"
+msgstr "Returns and Exchanges"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:63
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:68
+msgid "Modalites"
+msgstr "Modalities"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout.php:70
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_admin.php:22
+msgid "Gestion des comptes"
+msgstr "Account management"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_admin.php:23
+msgid "Paramètres"
+msgstr "Parameters"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_admin.php:25
+msgid "Gestion des commandes"
+msgstr "Order management"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_admin.php:26
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_vendeur.php:37
+msgid "Se deconnecter"
+msgstr "Log Out"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_vendeur.php:34
+msgid "Mes Ventes"
+msgstr "My sales"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/layout_vendeur.php:36
+msgid "Charte"
+msgstr "Charter"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Accueil/index.php:3
+msgid "Votre dressing"
+msgstr "Your dressing"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Accueil/index.php:20
+msgid "Vente en cours :"
+msgstr "Ongoing sales :"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Accueil/index.php:52
+msgid "Prochaines Ventes"
+msgstr "Upcoming sales"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Accueil_pro/index.php:5
+msgid "Creer une vente"
+msgstr "Create a sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Admin/index.php:2
+msgid "Espace Admin"
+msgstr "Administrator's area"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Admin/index.php:8
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Login/index.php:18
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Logpro/index.php:25
+msgid "Identifiant"
+msgstr "Identifier"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Admin/index.php:14
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Ajouter_admin/index.php:52
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:80
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:78
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Login/index.php:24
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Logpro/index.php:31
+msgid "Mot de passe"
+msgstr "Password"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Admin/index.php:16
+msgid "S'inscrire"
+msgstr "Register"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Ajouter_admin/index.php:6
+msgid "Ajouter un admin"
+msgstr "Add a administrator"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Ajouter_admin/index.php:22
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:48
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:22
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Profil/index.php:16
+msgid "Nom"
+msgstr "Name"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Ajouter_admin/index.php:27
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Profil/index.php:17
+msgid "Prenom"
+msgstr "First Name"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Ajouter_admin/index.php:32
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:50
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:84
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:58
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:57
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Profil/index.php:23
+msgid "Mail"
+msgstr "Email"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Ajouter_admin/index.php:37
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:64
+msgid "Confirmez votre e-mail"
+msgstr "Confirm your email"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Ajouter_admin/index.php:43
+msgid "Definissez vos paramètres de connexion"
+msgstr "Define your settings connection"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Ajouter_admin/index.php:47
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:47
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:81
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:75
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:73
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Profil/index.php:21
+msgid "Pseudo"
+msgstr "Pseudo"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Ajouter_admin/index.php:57
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:86
+msgid "Confirmez votre mot de passe"
+msgstr "Confirm password"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:6
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:6
+msgid "Ajouter un nouveau produit"
+msgstr "Add a new product"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:29
+msgid "Ajout d'un nouveau produit pour la vente"
+msgstr "Adding a new item for sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:32
+msgid "si la categorie ou sous-categorie que vous souhaitez n'est pas dans la liste, merci de contacter un administrateur"
+msgstr "if the category or sub-category you want is not in the list, thank you to contact an administrator"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:36
+msgid "Articles déjà présent dans la vente"
+msgstr "Items already in sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:41
+msgid "Photo de la vente"
+msgstr "Photo sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:51
+msgid "Photo du carroussel"
+msgstr "Photo carousel"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:59
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:82
+msgid "Nom de l'article"
+msgstr "Item name"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:65
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/MesVentes/index.php:41
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Vente/Vente.php:15
+msgid "Détails"
+msgstr "Details"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:75
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:45
+msgid "Ajouter nouvel article"
+msgstr "Add a new item"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:88
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/lesventes.php:20
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/nouveauforum.php:21
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/nouveautopic.php:21
+msgid "Description"
+msgstr "Description"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:92
+msgid "Choisissez la catégorie de l'article"
+msgstr "Choose the category of the item"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:93
+msgid "Choisissez la sous catégorie de l'article"
+msgstr "Choose the sub-category of the item"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:120
+msgid "Prix"
+msgstr "Price"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:123
+msgid "initial"
+msgstr "initial"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:124
+msgid "reduction"
+msgstr "reduction"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:125
+msgid "final"
+msgstr "final"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:135
+msgid "Valider et gérer le stock"
+msgstr "Validate and manage inventory"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/AjouterArticle/index.php:136
+msgid "Terminer la vente"
+msgstr "Complete the sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Articles/article.php:18
+msgid "Soit"
+msgstr "That to say"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Articles/article.php:18
+msgid "de réduction"
+msgstr "of reduction"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Articles/article.php:19
+msgid "Choisissez la taille et la couleur"
+msgstr "Choose size and color"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Articles/article.php:32
+msgid "J'ajoute à mon dressing"
+msgstr "I add to my dressing"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Articles/index.php:11
+msgid "Veuillez sélectionner un article ou une vente"
+msgstr "Please select an item or sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Articles/parvendeur.php:17
+msgid "Ajouter au dressing"
+msgstr "Add to dressing"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Commande/index.php:17
+msgid "Numéro de la commande"
+msgstr "Order number"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Commande/index.php:18
+msgid "Etat de la vente"
+msgstr "Condition of sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Commande/index.php:19
+msgid "rix total"
+msgstr "total price"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Commande/index.php:20
+msgid "Contenu de la vente"
+msgstr "Content sales"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Commande/validerpanier.php:2
+msgid ""
+"Votre panier a bien été validé, vous disposez d'un délai de une semaine pour nous faire parvenir le chèque.\r\n"
+"Pour plus de détails, veuillez lire notre page dédiée aux FAQ ou contactez nous"
+msgstr "Your cart has been validated, you have a period of a week to send us the check. \ R \ nFor more details, please read our FAQ page or contact us"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/ajoutphotos.php:5
+msgid "Ajout d'un article"
+msgstr "Adding an article"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/ajoutphotos.php:17
+msgid "Envoyer"
+msgstr "Send"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/menu.php:42
+msgid "Menu déroulant"
+msgstr "Drop-down menu"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/menu_vendeur.php:4
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Creer_une_vente/index.php:7
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Creer_une_vente/index.php:20
+msgid "Nouvelle vente"
+msgstr "New sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/menu_vendeur.php:11
+msgid "Modifier une vente"
+msgstr "Edit a sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/menu_vendeur.php:15
+msgid "Ajouter article(s)"
+msgstr "Add item(s)"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/menu_vendeur.php:19
+msgid "Supprimer article(s)"
+msgstr "Remove item(s)"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/menu_vendeur.php:24
+msgid "Détail des ventes"
+msgstr "Details of sales"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/menu_vendeur.php:31
+msgid "Ajouter une vente"
+msgstr "Add a sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/photogalerie.php:4
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Common/photogalerieclient.php:4
+msgid "Photo Gallerie"
+msgstr "Photo Gallery"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Creer_une_vente/index.php:12
+msgid "Nouvelle vente de la marque"
+msgstr "Selling brand new"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Creer_une_vente/index.php:23
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/MesVentes/index.php:27
+msgid "Nom de la vente"
+msgstr "Sale's name"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Creer_une_vente/index.php:26
+msgid "Jour de début"
+msgstr "Day early"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Creer_une_vente/index.php:27
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/MesVentes/index.php:29
+msgid "Heure de début"
+msgstr "Start time"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Creer_une_vente/index.php:34
+msgid "Jour de fin"
+msgstr "End day"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Creer_une_vente/index.php:35
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/MesVentes/index.php:31
+msgid "Heure de fin"
+msgstr "End time"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Creer_une_vente/index.php:44
+msgid "Description de la vente"
+msgstr "Description of the sale"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Errors/404.php:1
+msgid "OOOUPS"
+msgstr "OOOPS"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Errors/404.php:4
+msgid "Erreur"
+msgstr "Error"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Errors/404.php:5
+msgid "La page que vous avez demandé n'existe pas ou a été supprimé"
+msgstr "The page you requested does not exist or has been removed"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Faq/index.php:5
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Faq/index.php:9
+msgid "FAQ"
+msgstr "FAQ"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/index.php:15
+msgid "FORUM"
+msgstr "FORUM"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/index.php:16
+msgid "DESCRIPTION"
+msgstr "DESCRIPTION"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/Lesposts.php:19
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/lesventes.php:19
+msgid "Auteur"
+msgstr "Author"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/Lesposts.php:20
+msgid "Post"
+msgstr "Post"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/Lesposts.php:21
+msgid "Time"
+msgstr "Time"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/Lesposts.php:50
+msgid "Commentaire"
+msgstr "Comment"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/lesventes.php:17
+msgid "Titre"
+msgstr "Title"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/lesventes.php:18
+msgid "Date"
+msgstr "Date"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/lesventes.php:21
+msgid "Dernier Post(A/M/J H/M/S)"
+msgstr "Last post(A/M/J H/M/S)"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/nouveauforum.php:17
+msgid "Nom du Forum"
+msgstr "Forum Name"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Forum/nouveautopic.php:17
+msgid "Titre du Topic"
+msgstr "Topic's title"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:30
+msgid "Gestion du stock de"
+msgstr "Stock management of"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:33
+msgid "si la couleur ou la taille que vous souhaitez n'est pas dans la liste, merci de contacter un administrateur"
+msgstr "if the color or size you want is not in the list, thank you to contact an administrator"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:39
+msgid "Photo principale de l'article"
+msgstr "Main photo of the item"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:48
+msgid "Les différentes photos"
+msgstr "Different photos"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:54
+msgid "Ajouter une photo de l'article"
+msgstr "Add a photo of the item"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:67
+msgid "Article dejà ajouté"
+msgstr "Article already added"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:71
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Panier/index.php:12
+msgid "Couleur"
+msgstr "Color"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:72
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Panier/index.php:13
+msgid "Taille"
+msgstr "Size"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:73
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Panier/index.php:14
+msgid "Quantité"
+msgstr "Amount"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:88
+msgid "Article à ajouter"
+msgstr "Item to add"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:94
+msgid "Choisissez la couleur"
+msgstr "Choose color"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:95
+msgid "Choisissez la taille"
+msgstr "Choose size"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/GererStock/index.php:96
+msgid "Choisissez la quantité"
+msgstr "Choose quantity"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_commandes/index.php:6
+msgid "Numero de la commande"
+msgstr "Order's number"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_commandes/index.php:7
+msgid "Montant dû"
+msgstr "Amount due"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_commandes/index.php:8
+msgid "Nom et prénom de l'acheteur"
+msgstr "Full name of the buyer"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_commandes/index.php:9
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Vente/Vente.php:3
+msgid "Liste des articles"
+msgstr "List of items"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_commandes/index.php:10
+msgid "Etat"
+msgstr "State"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_commandes/index.php:25
+msgid "En attente du chèque"
+msgstr "Waiting for check"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_commandes/index.php:26
+msgid "Chèque reçu, préparation de la commande"
+msgstr "Check received, order preparation"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_commandes/index.php:27
+msgid "Commande envoyé le"
+msgstr "Command sent on"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:46
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:80
+msgid "ID"
+msgstr "ID"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:49
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:28
+msgid "Prénom"
+msgstr "First name"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:76
+msgid "Listes des vendeurs"
+msgstr "List of sellers"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:82
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:19
+msgid "Marque"
+msgstr "Brand"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Gestion_des_comptes/index.php:83
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:24
+msgid "Nom du dirigeant"
+msgstr "Name of director"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:6
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:6
+msgid "Inscription"
+msgstr "Register"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:34
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:37
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Profil/index.php:19
+msgid "Adresse"
+msgstr "Adress"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:40
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Profil/index.php:20
+msgid "Code Postal"
+msgstr "Postal code"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:46
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:47
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Profil/index.php:18
+msgid "Ville"
+msgstr "Town"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:52
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:52
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Profil/index.php:22
+msgid "Téléphone"
+msgstr "Phone number"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_client/index.php:71
+msgid "Définissez vos paramètres de connexion"
+msgstr "Set your connection settings"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:10
+msgid "Pour pouvoir accéder à nos services et vendre vos articles, veuillez renseigner les champs suivants"
+msgstr "To access our services and sell your items, please complete the following fields"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:11
+msgid "Un mail pour confirmer votre inscription vous sera envoyé"
+msgstr "An email confirming your registration will be sent"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:32
+msgid "Coordonnées du siège social"
+msgstr "Contact Head Office"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:42
+msgid "Code postal"
+msgstr "Postal code"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:62
+msgid "Confirmez votre mail"
+msgstr "Confirm email"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:68
+msgid "Connexion"
+msgstr "Sign in"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Inscription_vendeur/index.php:83
+msgid "Confirmer votre mot de passe"
+msgstr "Confirm password"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Login/index.php:12
+msgid "Espace Membre"
+msgstr "Member's area"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Login/index.php:26
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Logpro/index.php:45
+msgid "S'incrire"
+msgstr "Register"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Login/index.php:47
+msgid "Pour les professionnels"
+msgstr "For Professionals"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Login/index.php:47
+msgid "Connexion et Inscription"
+msgstr "Login and Registration"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Logpro/index.php:12
+msgid "Dans le dressing de... vous permet de vendre des produits déstockés par le biais de ventes de durée déterminée."
+msgstr "In the dressing room of ... allows you to sell products withdrawn through sales of limited duration."
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Logpro/index.php:13
+msgid "Le site offre un design clair qui permet, après inscription du membre, de lui permettre de visiter votre vente et d'acheter vos produits."
+msgstr "The site offers a clear design that allows, after registration of the member, to allow him to visit your sales and buy your products."
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Logpro/index.php:14
+msgid "Les conditions de vente sont réglées par les administrateurs et dépendent du statut de votre entreprise."
+msgstr "The conditions are set by the directors and depend on the status of your business."
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Logpro/index.php:18
+msgid "Accès à votre espace professionnel"
+msgstr "Access your professional space"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/MesVentes/index.php:28
+msgid "Début de la vente"
+msgstr "Sale begins"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/MesVentes/index.php:30
+msgid "Fin de la vente"
+msgstr "Sale ends"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Panier/articleajoute.php:2
+msgid "Cet article est maintenant dans votre dressing"
+msgstr "This item is now in your dressing"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Panier/articleajoute.php:7
+msgid "Retourner à mes achats"
+msgstr "Return to my shopping"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Panier/index.php:11
+msgid "Prix après réduction"
+msgstr "Price after discount"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Panier/index.php:24
+msgid "Prix total"
+msgstr "Total price"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Parametres_admin/index.php:7
+msgid "Ajouter Couleur"
+msgstr "Add color"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Parametres_admin/index.php:9
+msgid "Couleurs déjà présentes"
+msgstr "Colors already added"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Parametres_admin/index.php:15
+msgid "Ajouter une couleur"
+msgstr "Add a color"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Parametres_admin/index.php:23
+msgid "Ajouter Taille"
+msgstr "Add size"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Parametres_admin/index.php:25
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Parametres_admin/index.php:41
+msgid "Tailles déjà présentes"
+msgstr "Sizes already added"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Parametres_admin/index.php:31
+msgid "Ajouter une taille"
+msgstr "Add size"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Parametres_admin/index.php:39
+msgid "Ajouter Categorie"
+msgstr "Add category"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Parametres_admin/index.php:47
+msgid "Ajouter une categorie"
+msgstr "Add a category"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Profil/index.php:13
+msgid "Modifier mon profil"
+msgstr "Edit my profile"
+
+#: /Applications/MAMP/htdocs/Dansledressingde/Views/Vente/view.php:1
+msgid "La première vente"
+msgstr "The first sale"
+

@@ -1,0 +1,96 @@
+body
+{
+    width: 960px;
+    margin: auto;
+}
+
+/*Header*/
+.header
+{
+    background-repeat : repeat-x;
+    position: absolute;
+    width: 960px;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.tete
+{
+    text-align:center;
+    width: 960px;
+    margin: auto;
+}
+.barre
+{
+    background-repeat: repeat-x;
+    margin: 0 auto;
+    width: 960px;
+}
+
+.logo
+{
+    vertical-align: middle;
+}
+
+.nomsite
+{
+    font-family : Copperplate, Verdana, Arial, sans-serif;
+    font-size : 42px;
+}
+
+/*Navigation*/
+
+.menu{
+    margin:0 auto; 
+    padding:0; 
+    height:70px; 
+    width:960px; 
+    display:block; 
+    background:url('topMenuImages.png') repeat-x;
+}
+
+.menu li{
+    padding:0; 
+    margin:0; 
+    list-style:none; 
+    display:inline;
+}
+
+.menu li a{
+    float:left; 
+    padding-left:50px; 
+    display:block; 
+    color:rgb(0,0,0); 
+    text-decoration:none; 
+    font:15px Copperplate, Verdana, Arial, Helvetica, sans-serif; cursor:pointer; 
+    background:url('topMenuImages.png') 0px -0px no-repeat;
+}
+
+.menu li a span{
+    line-height:70px; 
+    float:left; 
+    display:block; 
+    padding-right:15px; 
+    background:url('topMenuImages.png') 0px -0px no-repeat;
+}
+
+.menu li a:hover{
+    background-position:30px -60px; 
+    color:rgb(0,0,0);
+}
+
+.menu li a:hover span{
+    background-position:100% -60px;
+}
+
+.menu li a.active, .menu li a.active:hover{
+    line-height:30px; 
+    font:22px Copperlate, Verdana, Arial, Helvetica, sans-serif; 
+    background:url('topMenuImages.png') 0px -90px no-repeat; 
+    color:rgb(0,0,0);
+}
+
+.menu li a.active span, .menu li a.active:hover span{
+    background:url('topMenuImages.png') 100% -90px no-repeat;
+}

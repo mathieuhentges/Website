@@ -1,0 +1,30 @@
+.titre
+{
+    padding-top: 20px;
+    margin-top: 200px;
+    width: 960px;
+    height: 40px;
+    font-family: "QuickSandLight", "Copperplate",Verdana, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+td
+{
+    width: 235px;
+}
+
+.liens
+{
+    width: 960px;
+    height: 75px;
+    font-family: "QuickSandLight","Copperplate", Verdana, Arial, sans-serif;
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+a
+{
+    color: black;
+    text-decoration: none;
+}

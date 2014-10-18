@@ -1,0 +1,16 @@
+h1{
+	color: #B1030F;
+	font-family: apple-chancery, Monotype Corsiva, Cambria, Arial; /*prends la première police, si elle n'existe pas prends la deuxième etc...*/
+	font-style: normal;
+	text-align:center;
+	font-size: 35px;
+}
+dt{
+	text-align: center;
+	font-size: 25px;
+}
+dd{
+	text-align: center;
+	font-size: 20px;
+	color:blue;
+}
